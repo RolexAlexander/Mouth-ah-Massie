@@ -1,4 +1,4 @@
-# Deep Research ADK
+# Mouth ah Massie - Deep Research ADK
 
 A multi-agent deep research system built on Google ADK. Designed to compete with OpenAI Deep Research and Gemini Deep Research on the axes those products are weak: **structured auditable state**, **explicit termination contracts**, **source-quality stratification**, and a **two-layer report** that separates evidence from interpretation.
 
