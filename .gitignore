@@ -32,3 +32,6 @@ Thumbs.db
 # Build artifacts
 dist/
 build/
+
+# ADK
+.adk/
